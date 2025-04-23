@@ -62,7 +62,7 @@ figure {
     margin: 20px 0px;
 }
 
-.p-margin {
+.p-marginbott {
     margin-bottom: 20px;
 }
 
@@ -94,4 +94,44 @@ tbody {
 
 .even {
     background-color: white;
+}
+
+/*paragrafo finale*/
+
+.p-margintop {
+    margin-top: 20px;
+}
+
+/*aside*/
+
+h3       {
+        margin-top: 20px;
+        margin-bottom: 10px;
+}
+
+
+#monitor {
+    width: 250px;
+    height: 180px;
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#map {
+    width: 250px;
+    height: 180px;
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.related-interests-title {
+    color: white;
+    font-size: 1.3rem;
+    margin-block-start: 2px;
 }
