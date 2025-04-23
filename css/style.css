@@ -69,3 +69,29 @@ figure {
 ul {
     padding-inline-start: 17px;
 }
+
+/*tabella*/
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+
+th {
+    text-align: left;
+    background-color: #20a9e5;
+    color: white;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+tbody {
+    background-color: #b1e5f2;
+}
+
+.even {
+    background-color: white;
+}
